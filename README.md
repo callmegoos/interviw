@@ -1,4 +1,7 @@
 # interviw
+
+## photo de damien dufour.
+![image](https://user-images.githubusercontent.com/82452161/114832599-f0943280-9dce-11eb-9d5b-52234e3164ca.png)
 ## c'est quoi ton travail ? / réponse:
 ----------------------------
 ## tu avais de bonne notes au collège ? / réponse:
@@ -17,8 +20,7 @@
 ----------------------------
 ## alors dernier question, tu revé faire quoi quand tu était plus petit ? / réponse: 
 -------------------------------
-## une photo de damien dufour.
-![image](https://user-images.githubusercontent.com/82452161/114831765-09501880-9dce-11eb-8475-d49d773048f9.png)
+
 
 
 
