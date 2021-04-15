@@ -4,6 +4,10 @@
 ![image](https://user-images.githubusercontent.com/82452161/114832599-f0943280-9dce-11eb-9d5b-52234e3164ca.png)
 ## c'est quoi ton travail ? / réponse:
 ----------------------------
+## ca fait combien de temps que tu fait se métiers la ?
+----------------------------
+## du coup tu fait quoi de t'es journer ,tu t'aucupe d'un seule projet ou de plusieurs a la fois ?
+----------------------------
 ## tu avais de bonne notes au collège ? / réponse:
 ----------------------------
 ## tu a choisi ton métiers ? / réponse: 
