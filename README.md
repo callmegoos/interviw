@@ -10,6 +10,10 @@
 ----------------------------
 ## tu avais de bonne notes au collège ? / réponse:
 ----------------------------
+## quelles étude a tu fait après le collège ?
+----------------------------------------
+## quelles études à tu fait après le lycée ?
+----------------------------
 ## tu a choisi ton métiers ? / réponse: 
 ------------------------
 ## a quelle age tu t'es rendu compte que tu voulais faire ca comme métier ? / réponse:
